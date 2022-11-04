@@ -38,9 +38,46 @@ body {
     margin-right: 10px;
    
    font-family: 'Times New Roman', Times, serif;
-    background-size: 100% 0.2em;
-    background-position: bottom;
     transition: all 0.25s ease-in;
     font-size: 30px;
   }
+  html{
+    scroll-behavior: smooth;
+  }
+  #about{
+    height:500px;
+    background-color:purple;
+    font-size:40px
+   
+
+  }
+  #work{
+   color: white;
   
+  background-image: url("../challenge2/assets/download.jpg");
+    font-size:60px
+    
+  }
+  #contact{
+   
+    height :500px;
+    background-color:brown;
+    font-size:40px
+  }
+  .project {
+   
+  color:blue;
+ 
+  }
+  .Challenge{
+  
+  color:purple;
+  
+  
+  }
+
+  .Homework{
+ 
+ color:red;
+  
+  }
