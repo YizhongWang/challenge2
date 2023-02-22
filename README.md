@@ -3,3 +3,5 @@ create 3 sections one for work, about me, and contact.
 add colors for backround color and background image.
 link tag resume link to my resume PDF
 I have created an image for myself as well
+
+![Screenshot of application](./assets/1677101275415.jpg)
